@@ -1,5 +1,5 @@
 ---
-title: Tarkan Bilge
+title:
 feature_text: |
   ## Tarkan Bilge
   Climate Scientist
