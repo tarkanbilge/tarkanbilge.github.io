@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Tarkan Bilge" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo1.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Climate Scientist" # Site description and default description, also used in jekyll-seo-tag
 url: "https://tarkanbilge.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -106,14 +106,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  #16: '/assets/logos/logo@16px.png'
-  #2: '/assets/logos/logo@32px.png'
-  #96: '/assets/logos/logo@96px.png'
-  #120: '/assets/logos/logo@120px.png'
-  #144: '/assets/logos/logo@144px.png'
-  #180: '/assets/logos/logo@180px.png'
-  #512: '/assets/logos/logo@512px.png'
-  #1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/logo1@16px.png'
+  32: '/assets/logos/logo1@32px.png'
+  96: '/assets/logos/logo1@96px.png'
+  120: '/assets/logos/logo1@120px.png'
+  144: '/assets/logos/logo1@144px.png'
+  180: '/assets/logos/logo1@180px.png'
+  512: '/assets/logos/logo1@512px.png'
+  1024: '/assets/logos/logo1@1024px.png'
 
 # 9. Site navigation
 navigation_header:
