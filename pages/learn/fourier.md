@@ -33,7 +33,7 @@ Figure 1 demonstrates the approximation of a sawtooth function by a Fourier seri
 
 {% include figure.html image="https://tarkanbilge.github.io/assets/learn/fourier/fig_1.png" caption="Figure 1" width="830" height="158" %}
 
-Euler's formula (Equation 1.5) can be used to rewrite the sine-cosine form of the Fourier series in the exponential form (Equation 1.6) with the new Fourier coefficient C<sub>1</sub> (Equation 1.7). This form of the Fourier series is used because it is allows for the input function f(x) to be complex, it is therefore commonly used for representing Fourier transforms, which will be introduced in the next section.
+Euler's formula (Equation 1.5) can be used to rewrite the sine-cosine form of the Fourier series in the exponential form (Equation 1.6) with the new Fourier coefficient c<sub>n</sub> (Equation 1.7). This form of the Fourier series is used because it is allows for the input function f(x) to be complex, it is therefore commonly used for representing Fourier transforms, which will be introduced in the next section.
 
 {% include figure.html image="https://tarkanbilge.github.io/assets/learn/fourier/eq1_5.png" caption="Equation 1.5" width="413" height="79" %}
 
@@ -45,4 +45,4 @@ Euler's formula (Equation 1.5) can be used to rewrite the sine-cosine form of th
 
 ##### Fourier transforms
 
-This section will briefly introduce and distinguish between three types of Fourier transform: the Continuous Fourier Transform (CFT), the Discrete-time Fourier Transform (DTFT) and the Discrete Fourier Transform (DFT). These transforms all have slightly different purposes, once these are identified it will be clear why the DFT is the one chosen to apply to time-series data.
+This section will briefly introduce and distinguish between three types of Fourier transform: the Continuous Fourier Transform (CFT), the Discrete-time Fourier Transform (DTFT) and the Discrete Fourier Transform (DFT). These transforms all have slightly different purposes, once these are identified it will be clear why the DFT is chosen to apply to time-series data.
