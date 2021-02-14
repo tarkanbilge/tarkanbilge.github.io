@@ -10,6 +10,5 @@ feature_image: "https://tarkanbilge.github.io/assets/mountain1.jpg"
 
 <div style="margin-left: 20em;" > <br/><br/>
 I am a climate scientist currently working at the Met Office. My main research interests are in polar climate and natural variability, particularly responses to solar variability.  </div>
-<br/><br/>
 
 ---
