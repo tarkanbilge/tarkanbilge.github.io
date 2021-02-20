@@ -6,7 +6,8 @@ feature_image: "https://tarkanbilge.github.io/assets/mountain1.jpg"
 aside: true
 ---
 
-{% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="left" width="450" height="435" %}
+{% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="right" width="225" height="217" %}
+
 
 ---
 
