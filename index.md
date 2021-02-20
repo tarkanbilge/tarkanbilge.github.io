@@ -1,5 +1,5 @@
 ---
-title:
+title: Tarkan Bilge
 feature_text: |
   ## Tarkan Bilge
 feature_image: "https://tarkanbilge.github.io/assets/mountain1.jpg"
