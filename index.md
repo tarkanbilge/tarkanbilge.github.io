@@ -8,7 +8,7 @@ aside: true
 
 ### Research Interests
 
-I am interested in polar climate and natural variability. In particular I am interested on solar influence on weather and climate. While studying for my MSc in Physics at UCL, I wrote my dissertation under Professor Julienne Stroeve on “The effect of the 11 Year Solar Cycle on Arctic Sea Ice”. During this research, I used sea ice concentration and thickness estimates alongside total solar irradiance observations and temperature station data to investigate the relationship between solar variability and Arctic sea ice and the heat transport mechanisms at work.
+I am interested in polar climate and natural variability. In particular I am interested in solar influence on weather and climate. While studying for my MSc in Physics at UCL, I wrote my dissertation under Professor Julienne Stroeve on “The effect of the 11 Year Solar Cycle on Arctic Sea Ice”. During this research, I used sea ice concentration and thickness estimates alongside total solar irradiance observations and temperature station data to investigate the relationship between solar variability and Arctic sea ice and the heat transport mechanisms at work.
 
 ---
 
