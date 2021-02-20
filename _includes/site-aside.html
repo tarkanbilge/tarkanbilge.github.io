@@ -7,10 +7,11 @@
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
+      {% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="center" width="200" height="193" %}
       <h5>Tarkan Bilge</h5>
       <p>Climate Scientist, UK Met Office</p>
-      {% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="center" width="225" height="217" %}
       {% include nav-social.html %}
+      
     </section>
 
   {% elsif page.layout == "categories" %}
