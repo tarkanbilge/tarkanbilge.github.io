@@ -24,7 +24,7 @@ I am interested in polar climate and natural variability. In particular I am int
 **Arctic Frontiers 2021**
 Performance of Sea Ice Thickness Forecasts to Support Arctic Activities
 
-Bilge, Tarkan (1); Fournier, Nicolas (1); Carneiro, Davi (1); Hume-Wright, Laura (1); Tietsche, Steffen (2); Bertino, Laurent (3)
+Bilge, Tarkan (1); Fournier, Nicolas (1); Carneiro, Davi (1); Hume-Wright, Laura (1); Tietsche, Steffen (2); Bertino, Laurent (3) <br>
 (1) UK Met Office, (2) ECMWF, (3) NERSC
 
 ---
