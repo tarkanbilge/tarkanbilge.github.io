@@ -2,13 +2,42 @@
 title:
 feature_text: |
   ## Tarkan Bilge
-  Climate Scientist
 feature_image: "https://tarkanbilge.github.io/assets/mountain1.jpg"
+aside: true
 ---
 
-{% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="left" width="300" height="800" %}
-
-<div style="margin-left: 20em;" > <br/><br/>
-I am a climate scientist currently working at the Met Office. My main research interests are in polar climate and natural variability, particularly responses to solar variability.  </div>
+{% include figure.html image="https://tarkanbilge.github.io/assets/web_profile1.jpg" position="left" width="450" height="435" %}
 
 ---
+
+### Research Interests
+
+I am interested in polar climate and natural variability. In particular I am interested on solar influence on weather and climate. While studying for my MSc in Physics at UCL, I wrote my dissertation under Professor Julienne Stroeve on “The effect of the 11 Year Solar Cycle on Arctic Sea Ice”. During this research, I used sea ice concentration and thickness estimates alongside total solar irradiance observations and temperature station data to investigate the relationship between solar variability and Arctic sea ice and the heat transport mechanisms at work.
+
+---
+
+### Skills
+
+* Python, R, Fortran, Mathematica, Shell scripting
+* Fourier analysis, principal component analysis
+* Weather and climate data analysis and visualisation
+
+---
+
+### Conferences
+
+**Arctic Frontiers 2021**
+Performance of Sea Ice Thickness Forecasts to Support Arctic Activities
+
+Bilge, Tarkan (1); Fournier, Nicolas (1); Carneiro, Davi (1); Hume-Wright, Laura (1); Tietsche, Steffen (2); Bertino, Laurent (3)
+(1) UK Met Office, (2) ECMWF, (3) NERSC
+
+---
+
+### Education
+
+**UCL**
+Master of Science (MSc), Physics
+
+**University of St Andrews**
+Bachelor of Science (BSc), Physics
