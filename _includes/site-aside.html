@@ -1,4 +1,4 @@
-<aside class="aside  typeset  aside--{{ include.align | default: 'right' }}">
+<aside class="aside  typeset  aside--{{ include.align | default: 'left' }}">
 
   {% if page.layout == "post" %}
     <section class="section  section--related-posts">
@@ -7,8 +7,8 @@
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
-      <h3>About this site</h3>
-      <p>{{ site.description }}</p>
+      <h5>Tarkan Bilge</h5>
+      <p>Climate Scientist, UK Met Office</p>
       {% include nav-social.html %}
     </section>
 
