@@ -17,7 +17,7 @@ My main research interests are polar climate and natural variability. In particu
 * Fourier analysis, principal component analysis, self-organising maps, k-means clustering
 * Weather and climate data analysis and visualisation
 
---
+---
 
 ### Publications
 
