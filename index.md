@@ -7,25 +7,37 @@ aside: true
 
 ### Research Interests
 
-My main research interests are polar climate and natural variability. In particular I am interested in solar influence on weather and climate. While studying for my MSc in Physics at UCL, I wrote my dissertation under Professor Julienne Stroeve on “The effect of the 11 Year Solar Cycle on Arctic Sea Ice”. During this research, I used sea ice concentration and thickness estimates alongside total solar irradiance observations and temperature station data to investigate the relationship between solar variability and Arctic sea ice and the heat transport mechanisms at work. I am also interested in statistical, pattern clustering and signal processing techniques understand the interaction of different elements of our climate system and their responses to external forcing.  
+My main research interests are polar climate and natural variability. In particular I am interested in solar influence on weather and climate.
+
+My current research is targeted at improving understanding of the vertical temperature and wind response to the 11-year solar cycle, and associated mechanisms. Relating to this, I am also working to understand the importance and application of different statistical methods in this area of attribution. My past research has also focused on sea-ice variability and examining and quantifying the influence of solar forcing on regional sea-ice conditions. 
 
 ---
 
-### Skills
+### Work Experience
 
-* Python, R, Fortran, Mathematica, shell scripting
-* Fourier analysis, principal component analysis, self-organising maps, k-means clustering
-* Weather and climate data analysis and visualisation
+Chief Engineer (Climate Prediction), University of Bergen 
+September 2021 – December 2022 
+
+Climate Scientist, UK Met Office
+September 2019 – August 2021
+
+---
+
+### Publications  
+
+Bilge, T. A., Fournier, N., Mignac, D., Hume-Wright, L., Bertino, L., Williams, T., & Tietsche, S. (2022). An Evaluation of the Performance of Sea Ice Thickness Forecasts to Support Arctic Marine Transport. Journal of Marine Science and Engineering, 10(2), 265. https://doi.org/10.3390/jmse10020265
+
+Smith, D., Gillett, N., Simpson, I., Athanasiadis, P., Baehr, J., Bethke, I., Bilge et al. Attribution of multi-annual to decadal changes in the climate system: The Large Ensemble Single Forcing Model Intercomparison Project (LESFMIP). Frontiers in Climate 2022
 
 ---
 
 ### Conferences
 
-**Arctic Frontiers 2021**
-Performance of Sea Ice Thickness Forecasts to Support Arctic Activities
+Bilge, T. A. (2022) Generalised Additive Models for Investigating Signals of Solar
+Influence. HEPPA-SOLARIS 2022, 15 th June 2022, Bergen.
 
-Bilge, Tarkan (1); Fournier, Nicolas (1); Carneiro, Davi (1); Hume-Wright, Laura (1); Tietsche, Steffen (2); Bertino, Laurent (3) <br>
-(1) UK Met Office, (2) ECMWF, (3) NERSC
+Bilge, T. A. (2021) Performance of Sea Ice Thickness Forecasts to Support
+Arctic Activities. Arctic Frontiers, 3 rd February 2021, Virtual.
 
 ---
 
@@ -36,3 +48,13 @@ Master of Science (MSc), Physics
 
 **University of St Andrews**
 Bachelor of Science (BSc), Physics
+
+---
+
+### Skills 
+
+* Coupled climate modelling; designing and running experiments, validation
+* Programming; Python, R, Fortran, Mathematica and shell scripting
+* Machine learning; self-organising maps, k-means clustering, hyperparameter optimisation
+* Statistical methods and modelling; linear models, generalised additive models, principal component analysis, Fourier analysis
+
