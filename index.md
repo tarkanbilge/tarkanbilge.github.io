@@ -31,6 +31,12 @@ Smith, D., Gillett, N., Simpson, I., Athanasiadis, P., Baehr, J., Bethke, I., Bi
 
 ---
 
+### Publications
+
+Bilge, T.A.; Fournier, N.; Mignac, D.; Hume-Wright, L.; Bertino, L.; Williams, T.; Tietsche, S. An Evaluation of the Performance of Sea Ice Thickness Forecasts to Support Arctic Marine Transport. J. Mar. Sci. Eng. 2022, 10, 265. https://doi.org/10.3390/jmse10020265 
+
+---
+
 ### Conferences
 
 Bilge, T. A. (2022) Generalised Additive Models for Investigating Signals of Solar
