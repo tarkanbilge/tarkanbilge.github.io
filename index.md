@@ -15,7 +15,7 @@ My current research is targeted at improving understanding of the vertical tempe
 
 ### Work Experience
 
-Ocean/Sea-ice modeller, British Antarctic Survey
+Ocean/Sea-ice Modeller, British Antarctic Survey
 January 2023 – Present
 
 Chief Engineer (Climate Prediction), University of Bergen 
