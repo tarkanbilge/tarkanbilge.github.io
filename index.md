@@ -15,6 +15,9 @@ My current research is targeted at improving understanding of the vertical tempe
 
 ### Work Experience
 
+Ocean/Sea-ice modeller, British Antarctic Survey
+January 2023 – Present
+
 Chief Engineer (Climate Prediction), University of Bergen 
 September 2021 – December 2022 
 
@@ -28,12 +31,6 @@ September 2019 – August 2021
 Bilge, T. A., Fournier, N., Mignac, D., Hume-Wright, L., Bertino, L., Williams, T., & Tietsche, S. (2022). An Evaluation of the Performance of Sea Ice Thickness Forecasts to Support Arctic Marine Transport. Journal of Marine Science and Engineering, 10(2), 265. https://doi.org/10.3390/jmse10020265
 
 Smith, D., Gillett, N., Simpson, I., Athanasiadis, P., Baehr, J., Bethke, I., Bilge et al. Attribution of multi-annual to decadal changes in the climate system: The Large Ensemble Single Forcing Model Intercomparison Project (LESFMIP). Frontiers in Climate 2022
-
----
-
-### Publications
-
-Bilge, T.A.; Fournier, N.; Mignac, D.; Hume-Wright, L.; Bertino, L.; Williams, T.; Tietsche, S. An Evaluation of the Performance of Sea Ice Thickness Forecasts to Support Arctic Marine Transport. J. Mar. Sci. Eng. 2022, 10, 265. https://doi.org/10.3390/jmse10020265 
 
 ---
 
