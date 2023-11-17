@@ -121,8 +121,8 @@ navigation_header:
   url: /
 # - title: Learn
 #   url: /learn/
-# - title: Blog
-#   url: /blog/
+- title: Blog
+  url: /blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
